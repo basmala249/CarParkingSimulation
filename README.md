@@ -1,12 +1,3 @@
-# CarParkingSimulation
-
-
-You said:
-I made car park simulation using threads and java that allow only 4 parking slots and three gates using semaphore so write for me Readme file with simple words and make it funny loveable 
-ChatGPT said:
-ChatGPT
-Here's a fun and simple README for your car park simulation project:
-
 🚗 Java Car Park Simulation 🚗
 Welcome to Car Park Frenzy — the ultimate parking chaos simulator! 😄
 
